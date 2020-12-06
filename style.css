@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 300px;
+
+}
+
+
+.center-box{
+    min-height: 250px;
+    width: 900px;
+    background-color: navy;
+/* border: 1px solid black; */
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.center-item{
+    min-height:  100px;
+    width: 100px;
+    background-color:burlywood;
+    /* border: 1px solid black; */
+    display: flex;
+    
+    
+
+}
